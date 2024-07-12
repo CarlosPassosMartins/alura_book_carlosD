@@ -41,6 +41,10 @@
     display: block;
 }
 
+.container_botao {
+    display: none;
+}
+  
 .lista-menu_titulo,
 .lista-menu_item {
   padding: 1em;
