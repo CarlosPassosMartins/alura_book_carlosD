@@ -1,4 +1,4 @@
-.carrossel__titulo {
+.carrossel_titulo {
     color: var(--laranja);
     background-color: var(--branco);
     text-align: center;
@@ -32,14 +32,14 @@
     padding: 1em;
 }
 
-.card__descrição {
+.card_descrição {
     display: flex;
     justify-content: space-between;
     margin-bottom: 0.5em;
 
 }
 
-.card__botões {
+.card_botões {
     display: flex;
     justify-content: space-between;
 }
@@ -49,23 +49,23 @@
 }
 
 
-.descrição__titulo {
+.descrição_titulo {
     color: var(--laranja);
     font-weight: 700;
 }
 
-.descrição__titulo-livro {
+.descrição_titulo-livro {
     color: var(--azul);
     font-size: 18px;
     font-weight: 700;
     margin: 0.5em 0;
 }
 
-.descrição__texto {
+.descrição_texto {
     font-size: 14px;
 }
 
-.botões__ancora {
+.botões_ancora {
     background-color: var(--laranja);
     padding: 1em 2.2em;
     color: var(--branco);
@@ -73,6 +73,6 @@
     text-decoration: none;
 }
 
-.botões__item {
+.botões_item {
     margin: 0 0.5em;
 }
